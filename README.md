@@ -1,7 +1,7 @@
 # Lab-2
 Install the following python packages needed for this Lab. I would advice that as practice for industry, you install these packages in a virtual environment.
 
-pip install -U scikit-learn pip install pandas pip install numpy pip install jupyterlab pip install matplotlib
+`pip install -U scikit-learn` `pip install pandas` `pip install numpy` `pip install jupyterlab` `pip install matplotlib`
 
 This is the second Lab for the class Introduction to Machine Learning DIT 45100 AIW01
 
