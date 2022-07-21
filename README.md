@@ -68,7 +68,7 @@ You will be implementing the following algorithms we discussed in class:
        - Use alpha value of [0.001, 0.01, 0.1, 1] with LassoCV Regression.
          - Split your data into a training and test set
          - Find what it proposed was the best alpha and use that to get the mse and rsquared on the testing set
-         - Figure out which features it set to 0
+         - Figure out which features were selected
         
        - ***Cross Validation***
          - Use ShuffleSplit cross validation
