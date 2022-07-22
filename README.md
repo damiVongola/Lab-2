@@ -31,6 +31,7 @@ You will be implementing the following algorithms we discussed in class:
          - Use recursive feature elimination to get the best 5 features
          - Use LinearRegression to to train on the training set and get mse and rsquared on the testing set
          - show which features were selected
+         - show the ranking of each feature in a dataframe
         
   - ***Cross Validation:***
        - Use ShuffleSplit cross validation
@@ -100,6 +101,7 @@ You will be implementing the following algorithms we discussed in class:
          - Use recursive feature elimination to get the best 5 features
          - Use LogisticRegression to train on the training set and get accuracy and log_loss on the testing set
          - show which features were selected
+         - show the ranking of each feature in a dataframe
          
   - ***Cross Validation:***
        - Use StratifiedShuffleSplit cross validation
