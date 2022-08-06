@@ -86,7 +86,7 @@ You will be implementing the following algorithms we discussed in class:
   - Use MinMaxScaler to scale your features
   - ***Feature selection:***       
       - ***chisquare:*** 
-        - Use chisquare test to select the best feature(1 feature) to use .
+        - Use chisquare test to select the best 2 features to use .
         - Use LogisticRegression to train on the training set and get accuracy and log_loss on the testing set
         - show which features were selected
       - ***forward selection:***
@@ -98,7 +98,7 @@ You will be implementing the following algorithms we discussed in class:
         - Use LogisticRegression to train on the training set and get accuracy and log_loss on the testing set
         - show which features were selected
        - ***recursive feature elimination:***
-         - Use recursive feature elimination to get the best 5 features
+         - Use recursive feature elimination to get the best 2 features
          - Use LogisticRegression to train on the training set and get accuracy and log_loss on the testing set
          - show which features were selected
          - show the ranking of each feature in a dataframe
